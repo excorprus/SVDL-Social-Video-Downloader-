@@ -11,14 +11,5 @@
 
 ## 📥 Установка
 1. Перейдите в раздел [Releases](https://github.com/yourname/svdl-downloader/releases)
-2. Скачайте `SVDL-Setup-v 1.0.0.exe
-3. Запустите и пользуйтесь. Требуется Windows 10/11 x64.
-
-## 🛠 Запуск из исходников
-```bash
-git clone https://github.com/yourname/svdl-downloader.git
-cd svdl-downloader
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python src/main.py
+2. Скачайте SVDL-Setup-v1.0.0.exe
+3. Запустите и пользуйтесь. Требуется Windows 10/11 x64
